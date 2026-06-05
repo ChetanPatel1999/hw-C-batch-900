@@ -1,1 +1,1 @@
-   break;
+num % 7
